@@ -1,3 +1,7 @@
+# Fork archived
+
+Uyuni service discovery has been added to Prometheus 2.31.0. The source code is manintained [upstream](https://github.com/prometheus/prometheus).
+
 # Prometheus with Uyuni Service Discovery
 
 This is a fork of Prometheus with the purpose of maintaining Uyuni service discovery.
